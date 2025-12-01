@@ -84,6 +84,7 @@ io.on('connection', (socket) => {
       id: Date.now(),
       sender: users[socket.id]?.username || 'Anonymous',
       senderId: socket.id,
+      to: to,
       message,
       timestamp: new Date().toISOString(),
       isPrivate: true,
