@@ -41,9 +41,9 @@ npm run dev
 Visit `http://localhost:5173` in your browser to start chatting!
 
 ![Chat 1](image.png)
-![Chat 2](<../Screenshot (108).png>)
-![Chat 3](<../Screenshot (109).png>)
-![Chat 4](<../Screenshot (110).png>)
-![Chat 5](<../Screenshot (111).png>)
-![Chat 6](<../Screenshot (112).png>)
-![Chat 7](<../Screenshot (113).png>)
+![Chat 2](Screenshot (108).png)
+![Chat 3](Screenshot (109).png)
+![Chat 4](Screenshot (110).png)
+![Chat 5](Screenshot (111).png)
+![Chat 6](Screenshot (112).png)
+![Chat 7](Screenshot (113).png)
